@@ -13,6 +13,12 @@ The Cash-Flow Dashboard is a Salary & Expense Tracker Module built with standard
 * **PDF Reporting:** Users can export their financial summary and itemized expense ledger as a PDF file using the jsPDF library.
 * **Smart Alerts:** The dashboard features a warning banner that alerts the user if their remaining balance drops below 10% of their total salary.
 
+## Live Website Link
+https://sprint02.vercel.app/
+
+##  Demo Video Link
+https://drive.google.com/file/d/1kmWpkqA0-T65MzSXQs5va3AB4yQm7ebh/view?usp=drive_link
+
 ## Technologies Used
 * **Frontend:** HTML5, CSS3, Vanilla JavaScript
 * **Libraries:** Chart.js (for analytics), jsPDF (for PDF generation)
